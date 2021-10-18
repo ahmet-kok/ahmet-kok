@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ahmeetkok" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeetkok?logo=twitter&style=for-the-badge" alt="ahmeetkok" /></a> </p>
-
 - 📝 I regularly write articles on [medium.com/](ahmetkok.medium.com/)
 
 - 📫 How to reach me **kokahmet@pm.me**
