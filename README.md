@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">Software Developer</h3>
 
-- 📝 I regularly write articles on [medium.com](ahmetkok.medium.com/)
+- 📝 I regularly write articles on [medium.com](https://ahmetkok.medium.com/)
 
 - 📫 How to reach me **kokahmet@pm.me**
 
