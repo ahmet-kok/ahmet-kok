@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [medium.com](https://ahmetkok.medium.com/)
 
-- 📫 How to reach me **aahmetkok@gmail.com**
+- 📫 How to reach me **me@ahmetkok.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
